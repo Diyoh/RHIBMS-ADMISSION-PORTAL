@@ -41,4 +41,11 @@ jobs:
         run: cp env .env
 
       - name: Run PHPUnit Tests
+        env:
+          database.tests.hostname: 127.0.0.1
+          database.tests.database: admission_system_test
+          database.tests.username: root
+          database.tests.password: ""
+          database.tests.DBDriver: MySQLi
+          database.tests.DBPrefix: ""
         run: vendor/bin/phpunit
