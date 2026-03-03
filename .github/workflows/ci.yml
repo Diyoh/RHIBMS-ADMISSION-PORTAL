@@ -48,4 +48,4 @@ jobs:
           database.tests.password: ""
           database.tests.DBDriver: MySQLi
           database.tests.DBPrefix: ""
-        run: vendor/bin/phpunit
+        run: vendor/bin/phpunit --no-coverage
