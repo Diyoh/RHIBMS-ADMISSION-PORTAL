@@ -187,7 +187,7 @@
     <!-- Footer -->
     <footer class="bg-gray-900 text-gray-300 py-12">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-sm font-medium">
-            <p>&copy; <?= date('Y') ?> RHIBMS University. Admission System Module - Week 5.</p>
+            <p>&copy; <?= date('Y') ?> RHIBMS University. Admission System Module - Week 5 with Mr Diyoh Shiloh.</p>
         </div>
     </footer>
 

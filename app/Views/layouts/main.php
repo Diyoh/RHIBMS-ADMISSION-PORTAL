@@ -56,7 +56,7 @@
     <!-- Footer -->
     <footer class="bg-white border-t border-indigo-100 mt-auto">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 text-center text-gray-400 text-sm">
-            &copy; <?= date('Y') ?> RHIBMS University. All rights reserved. <br/>
+            &copy; <?= date('Y') ?> RHIBMS University. All rights reserved Mr Diyoh Shiloh. <br/>
             Built with modern architecture for Week 5 Systems Engineering.
         </div>
     </footer>
